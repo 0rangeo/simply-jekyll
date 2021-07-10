@@ -7,8 +7,11 @@
         "id": "2459fc5120f50f23",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2020-05-01-intro.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2020-05-01-intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,5 +106,13 @@
     "collapsed": true
   },
   "active": "2459fc5120f50f23",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "_posts/2020-05-01-intro.md",
+    "_posts/2020-04-01-explore.md",
+    "_posts/2020-04-01-adler.md",
+    "_posts/2020-01-01-test.md",
+    "_posts/2020-02-01-usage.md",
+    "_posts/2020-03-01-customizable.md",
+    "_posts/2020-03-01-setup.md"
+  ]
 }
