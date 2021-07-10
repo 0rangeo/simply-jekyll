@@ -6,7 +6,7 @@ content-type: eg
 ---
 
 
-- I am a software engineer and a writer interested in the interplay between thoughts and constraints, the duality of interpretations and representations, and the nature of abstractions and correspondence between them. 
+- I am a adsfasdlfjalsjfd, and the nature of abstractions and correspondence between them. 
 
 - I am a long time practioner of Vipassana, but I am also a fallibilist with a slight objectivist bent. So I probably have a very different view of meditation than most people. We can talk about it if you want to.
 
