@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "asfd.md",
+            "file": "_posts/asdfff.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asfd.md",
+                "file": "_posts/asdfff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,8 +107,8 @@
   },
   "active": "2459fc5120f50f23",
   "lastOpenFiles": [
-    "Untitled.md",
     "_posts/2020-01-01-test.md",
+    "Untitled.md",
     "_posts/2020-02-01-usage.md",
     "_posts/2020-03-01-customizable.md",
     "_posts/2020-03-01-setup.md",
