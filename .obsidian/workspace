@@ -7,8 +7,11 @@
         "id": "2459fc5120f50f23",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-07-10-Initial Setup.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2021-07-10-Initial Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +107,15 @@
   },
   "active": "2459fc5120f50f23",
   "lastOpenFiles": [
-    "utilities/2021-07-09-adsf.md",
-    "_posts/2020-03-01-customizable.md",
-    "_posts/2021-07-11-adsf.md",
-    "_posts/2021-07-10-test.md",
-    "_posts/2020-05-01-intro.md",
-    "_posts/asdfff.md",
+    "_posts/2021-07-10-.md",
     "Untitled.md",
-    "_posts/2021-10-07-test.md",
-    "_posts/2021-10-07-Test.md",
-    "_posts/2020-03-01-setup.md"
+    "How to setup Simply Jekyll.md",
+    "2020-02-01-usage0.md",
+    "2020-02-01-usage.md",
+    "2020-03-01-customizable.md",
+    "2020-03-01-setup.md",
+    "2020-04-01-adler.md",
+    "2020-04-01-explore.md",
+    "utilities/2021-07-09-adsf.md"
   ]
 }
