@@ -28,7 +28,7 @@ url: "https://simply-jekyll.netlify.app/" # the base hostname & protocol for you
 # your social media links etc
 #######################################################################
 
-heading: Simply Jekyll
+heading: My Blog
 subheading: # subheading won't work without a tagline, 
           # tagline is mandatory if you want the 
           # suheading to appear. The reason is
@@ -45,10 +45,10 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations
+  name: A collection of ideas
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2021
+  msg: Dhruv # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: true # setting it to false will remove the header image and bio
@@ -61,14 +61,14 @@ user:
   photo: /assets/img/profile.png
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
-    enabled: false  # turn this to true
-    twitter: raghuveerdotnet
-    github: raghuveerdotnet 
-    youtube: raghuveerdotnet 
-    linkedin: raghuveerdotnet  
+    enabled: true  # turn this to true
+    twitter: null
+    github: null
+    youtube: null
+    linkedin: null 
     twitch: null
     facebook: null 
-    instagram: null
+    instagram: @dwoov
 
 
 
