@@ -7,11 +7,8 @@
         "id": "2459fc5120f50f23",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "utilities/2021-07-09-adsf.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/2021-07-09-adsf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +103,15 @@
   },
   "active": "2459fc5120f50f23",
   "lastOpenFiles": [
+    "utilities/2021-07-09-adsf.md",
+    "_posts/2020-03-01-customizable.md",
     "_posts/2021-07-11-adsf.md",
     "_posts/2021-07-10-test.md",
     "_posts/2020-05-01-intro.md",
     "_posts/asdfff.md",
     "Untitled.md",
     "_posts/2021-10-07-test.md",
-    "_posts/2020-03-01-customizable.md",
     "_posts/2021-10-07-Test.md",
-    "_posts/2020-03-01-setup.md",
-    "_posts/2020-04-01-adler.md"
+    "_posts/2020-03-01-setup.md"
   ]
 }
