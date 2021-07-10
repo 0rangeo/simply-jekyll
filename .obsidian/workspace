@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-07-10-test.md",
+            "file": "2021-07-11-adsf.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-07-10-test.md",
+                "file": "2021-07-11-adsf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   },
   "active": "2459fc5120f50f23",
   "lastOpenFiles": [
+    "Untitled.md",
     "_posts/2021-10-07-test.md",
     "_posts/2020-05-01-intro.md",
     "_posts/asdfff.md",
@@ -115,7 +116,6 @@
     "_posts/2020-03-01-setup.md",
     "_posts/2020-04-01-adler.md",
     "_posts/2020-04-01-explore.md",
-    "_posts/2021-10-07-.md",
-    "asfd.md"
+    "_posts/2021-10-07-.md"
   ]
 }
